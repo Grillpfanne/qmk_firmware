@@ -126,3 +126,5 @@ via*.json
 ## My config
 !keyboards/voyager/keymaps/grillpfanne/
 !keyboards/voyager/keymaps/grillpfanne/**
+!keyboards/moonlander/keymaps/grillpfanne/
+!keyboards/moonlander/keymaps/grillpfanne/**
